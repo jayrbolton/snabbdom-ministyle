@@ -29,7 +29,7 @@ h('div', {
   // picostyle CSS rules below
   css: {
     root: [ 'color: pink' ],
-    ' span': [ 'color: 'blue' ],
+    ' span': [ 'color: blue' ],
     ' > div > span': [ 'color: purple' ]
   }
 }, [
