@@ -1,0 +1,31 @@
+{
+  "name": "snabbdom-ministyle",
+  "version": "0.0.1",
+  "description": "A small snabbdom module allowing you to create nested styles for components.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "snabbdom": "^0.7.3"
+  },
+  "devDependencies": {
+    "budo": "^11.6.1",
+    "tape": "^4.10.1",
+    "tape-run": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayrbolton/snabbdom-ministyle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayrbolton/snabbdom-ministyle/issues"
+  },
+  "homepage": "https://github.com/jayrbolton/snabbdom-ministyle#readme"
+}
