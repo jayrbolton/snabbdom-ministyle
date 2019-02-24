@@ -1,7 +1,6 @@
 // ID for generating unique css classnames
 document.body._snabbdomMiniStyleID = 0
 function createClassName () {
-  // TODO make a little more robust
   return document.body._snabbdomMiniStyleID++
 }
 

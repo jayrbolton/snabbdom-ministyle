@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "snabbdom": "^0.7.3"
+    "snabbdom": "0.7.x"
   },
   "devDependencies": {
     "budo": "^11.6.1",
