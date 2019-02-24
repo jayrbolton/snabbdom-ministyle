@@ -81,3 +81,13 @@ h('fieldset', {
   input
 ])
 ```
+
+## Development
+
+### Tests
+
+`npm test` runs with tape and tape-run, emulating the browser with electron.
+
+### Running examples
+
+Run with budo: `./node_modules/.bin/budo examples`
